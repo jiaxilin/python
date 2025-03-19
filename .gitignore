@@ -1,0 +1,4 @@
+*.csv
+.gitattributes
+.DS_Store
+.env
